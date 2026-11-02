@@ -1,2 +1,11 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3, C4",0805,3,100n,
+C2,CP_Elec_6.3x4.5,1,10u,
+"DA1, DA2, DA3, DA4, DA5, DA6, DA7, DB1, DB2, DB3, DB4, DB5, DB6, DB7, DC1, DC2, DC3, DC4, DC5, DC6, DC7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DE1, DE2, DE3, DE4, DE5, DE6, DE7, DF1, DF2, DF3, DF4, DF5, DF6, DF7, DG1, DG2, DG3, DG4, DG5, DG6, DG7, DH1, DH2, DH3, DH4, DH5, DI1, DI2, DI3, DI4, DI5, DI6, DI7, DJ1, DJ2, DJ3, DJ4, DJ5, DK1, DK2, DK3, DK4, DK5, DL1, DL2, DL3, DL4, DL5, DL6, DL7, DM1, DM2, DM3, DM4, DM5, DN1, DN2, DN3, DP1",LED_PLCC_2835_Handsoldering,87,LED,
+J1,PinHeader_1x11_P2.54mm_Horizontal,1,Conn_01x11,
+J2,PinSocket_1x11_P2.54mm_Horizontal,1,Conn_01x11,
+R1,0805,1,R,
+"R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R3, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R4, R5, R6, R7, R8, R9",1206,37,R,
+R2,0805,1,100k,
+U1,HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.5mm_Mask2.4x6.17mm_ThermalVias,1,TLC5940PWP,
+U2,SSOP-20_5.3x7.2mm_P0.65mm,1,74HC244,
